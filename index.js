@@ -35,4 +35,4 @@ bot.on('guildMemberAdd', member => {
 });
 
 
-bot.login('NDA4MjE2MzU1NjA3OTM3MDI2.DVR5Jw.8yMgNbX9TAHXeEn0SX6nK9z-3Ss');
+bot.login('');
